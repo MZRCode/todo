@@ -1,0 +1,46 @@
+Genel:
+  ☐ Sabah rutini @low @30m
+  ☐ E-postaları kontrol et @today @15m
+  ☐ Günlük planı gözden geçir @15m
+
+İş:
+  Proje A:
+    ☐ Toplantıya katıl @10:00 @30m @critical
+    ☐ Kodları gözden geçir @1h
+    ☐ Pull request hazırla ve gönder @1h
+    ✔ Testleri çalıştır ve doğrula @done(2025-05-01 14:05) @started(2025-05-01 13:30) @lasted(35m)
+  Proje B:
+    ☐ Gereksinim dokümanı oluştur @high @2h
+    ✘ Kullanıcı testlerini planla (iptal edildi) @low
+
+Kişisel:
+  Sağlık:
+    ☐ Spor yap (koşu) @1h @today
+    ✔ Vitamin al @done(2025-05-01 09:15)
+  Gelişim:
+    ☐ Udemy kursuna devam et @1h30m @low
+    ☐ Kitap oku: _Derin Çalışma_ @45m
+
+Notlar:
+  - Yeni fikir: Haftalık planlama için ayrı dosya kullan
+  - Hatırlatma: Sunum taslağı Cuma'ya kadar hazır olmalı
+
+Arşiv:
+  ✔ Geçen haftaki sunum hazırlandı ve gönderildi @done(2025-04-27 18:00)
+
+  
+  
+Özellikler:
+  ✔ Todo+
+  ✘ Todo+
+  ☐ Todo+
+  Todo+
+  @Todo+
+  ☐ Todo+ @critical @high @low @today
+  ☐ Todo+ @1h @2h @3h @4h @5h @6h @7h @8h @9h @10h
+  ✔ Todo+ @done(2025-05-01 21:22) @started(2025-05-01 20:05) @lasted(1h17m)
+  ✔ Todo+ @est(1 day and 20 minutes)
+  ☐ *Todo+* @bold
+  ☐ _Todo+_ @italic
+  ☐ ~Todo+~ @strikethrough
+  ☐ `Todo+` @code
