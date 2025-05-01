@@ -1,0 +1,14 @@
+Özellikler:
+  ✔ Todo+
+  ✘ Todo+
+  ☐ Todo+
+  Todo+
+  @Todo+
+  ☐ Todo+ @critical @high @low @today
+  ☐ Todo+ @1h @2h @3h @4h @5h @6h @7h @8h @9h @10h
+  ✔ Todo+ @done(2025-05-01 21:22) @started(2025-05-01 20:05) @lasted(1h17m)
+  ✔ Todo+ @est(1 gün and 20 dakika)
+  ☐ *Todo+* @bold
+  ☐ _Todo+_ @italic
+  ☐ ~Todo+~ @strikethrough
+  ☐ `Todo+` @code

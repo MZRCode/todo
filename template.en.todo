@@ -1,0 +1,29 @@
+General:
+  ☐ Morning routine @low @30m
+  ☐ Check emails @today @15m
+  ☐ Review daily plan @15m
+
+Work:
+  Project A:
+    ☐ Attend meeting @10:00 @30m @critical
+    ☐ Review code @1h
+    ☐ Prepare and submit pull request @1h
+    ✔ Run and verify tests @done(2025-05-01 14:05) @started(2025-05-01 13:30) @lasted(35m)
+  Project B:
+    ☐ Create requirements document @high @2h
+    ✘ Plan user testing (cancelled) @low
+
+Personal:
+  Health:
+    ☐ Do workout (running) @1h @today
+    ✔ Take vitamins @done(2025-05-01 09:15)
+  Development:
+    ☐ Continue Udemy course @1h30m @low
+    ☐ Read book: _Deep Work_ @45m
+
+Notes:
+  - New idea: Use a separate file for weekly planning
+  - Reminder: Presentation draft must be ready by Friday
+
+Archive:
+  ✔ Last week’s presentation was prepared and submitted @done(2025-04-27 18:00)
